@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl.jar" sourcepath="D:/Fichiers/Autre/lwjgl-2.9.3/lwjgl-source-2.9.3.zip">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/D:/Fichiers/Autre/lwjgl-2.9.3/lwjgl-docs-2.9.3.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="lib/json.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
